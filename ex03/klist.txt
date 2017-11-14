@@ -1,0 +1,8 @@
+Credentials cache: API:4EF8E4A5-5F70-4023-97CE-3A87A779B3D8
+        Principal: cfusaro@42.FR
+
+  Issued                Expires               Principal
+Aug 28 20:32:55 2017  Sep  4 20:32:55 2017  krbtgt/42.FR@42.FR
+Aug 28 20:32:56 2017  Sep  4 20:32:55 2017  ldap/ldap-proxy.42.fr@42.FR
+Aug 28 20:32:56 2017  Sep  4 20:32:55 2017  HTTP/student-storage-2.42.fr@42.FR
+Aug 28 20:53:41 2017  Sep  4 20:32:55 2017  host/vgs-fn1.42.fr@42.FR
